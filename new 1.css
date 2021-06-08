@@ -68,10 +68,10 @@ header ul li a:hover {
     background-color: rgba(20, 143, 119, .5);
 }
 .banner h2{
-    color:white ;
+    color:bluesky ;
     z-index: 5;
     padding:20px 25px ;
-    border: 3px solid white ;
+    border: 3px solid bluesky ;
 }
 section{
     padding: 50px 0;
